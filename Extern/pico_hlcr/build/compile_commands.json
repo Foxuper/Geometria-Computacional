@@ -1,0 +1,232 @@
+[
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\Main.dir\\Test\\Main.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Test\\Main.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Test\\Main.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\pico_hlcr.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\pico_hlcr.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\pico_hlcr.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Tuple.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Tuple.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Tuple.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Ptr.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Ptr.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Ptr.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Ref.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Ref.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Ref.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Int.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Int.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Int.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Float.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Float.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Float.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\String.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\String.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\String.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Function.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Function.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Function.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Array.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Array.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Array.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\List.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\List.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\List.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Table.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Table.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Table.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Range.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Range.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Range.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Filter.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Filter.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Filter.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Map.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Map.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Map.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Zip.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Zip.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Zip.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Slice.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Slice.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Slice.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\File.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\File.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\File.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Thread.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Thread.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Thread.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Mutex.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Mutex.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Mutex.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Class\\Exception.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Exception.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Class\\Exception.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Size.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Size.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Size.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Alloc.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Alloc.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Alloc.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\New.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\New.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\New.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Assign.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Assign.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Assign.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\C_Types.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\C_Types.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\C_Types.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Compare.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Compare.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Compare.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Hash.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Hash.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Hash.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Len.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Len.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Len.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Resize.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Resize.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Resize.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Call.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Call.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Call.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Current.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Current.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Current.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Run.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Run.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Run.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Lock.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Lock.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Lock.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Context.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Context.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Context.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Iter.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Iter.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Iter.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Cast.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Cast.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Cast.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Concat.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Concat.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Concat.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Sublist.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Sublist.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Sublist.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Access.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Access.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Access.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Content.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Content.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Content.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Insert.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Insert.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Insert.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Pointer.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Pointer.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Pointer.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\IO.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\IO.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\IO.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Format.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Format.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Format.c"
+},
+{
+  "directory": "C:/Users/Foxuper/Desktop/ADV Types/build",
+  "command": "C:\\WinLibs\\mingw64\\bin\\clang.exe -I\"C:/Users/Foxuper/Desktop/ADV Types/Include\" -isystem \"C:/Users/Foxuper/Desktop/ADV Types/Extern\" -Wno-gnu-zero-variadic-macro-arguments -Wno-newline-eof -O0 -g3 -Wall -Wextra -pedantic -Wnull-dereference -Wpointer-arith -Wdouble-promotion -Wcast-qual -Wshadow -std=gnu11 -o CMakeFiles\\pico_hlcr.dir\\Source\\Interface\\Stream.c.obj -c \"C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Stream.c\"",
+  "file": "C:\\Users\\Foxuper\\Desktop\\ADV Types\\Source\\Interface\\Stream.c"
+}
+]

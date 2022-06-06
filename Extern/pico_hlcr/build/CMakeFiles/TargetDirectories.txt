@@ -1,0 +1,4 @@
+C:/Users/Foxuper/Desktop/ADV Types/build/CMakeFiles/edit_cache.dir
+C:/Users/Foxuper/Desktop/ADV Types/build/CMakeFiles/Main.dir
+C:/Users/Foxuper/Desktop/ADV Types/build/CMakeFiles/pico_hlcr.dir
+C:/Users/Foxuper/Desktop/ADV Types/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,50 @@
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: C:/Users/Foxuper/Desktop/ADV Types/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/WinLibs/mingw64/bin/ninja.exe cmTC_df4bd && [1/2] Building C object CMakeFiles/cmTC_df4bd.dir/src.c.obj
+[2/2] Linking C executable cmTC_df4bd.exe
+FAILED: cmTC_df4bd.exe 
+cmd.exe /C "cd . && C:\WinLibs\mingw64\bin\clang.exe   CMakeFiles/cmTC_df4bd.dir/src.c.obj -o cmTC_df4bd.exe -Wl,--out-implib,libcmTC_df4bd.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+C:/WinLibs/mingw64/bin/ld: CMakeFiles/cmTC_df4bd.dir/src.c.obj:src.c:(.text+0x2a): undefined reference to `pthread_create'
+C:/WinLibs/mingw64/bin/ld: CMakeFiles/cmTC_df4bd.dir/src.c.obj:src.c:(.text+0x33): undefined reference to `pthread_detach'
+C:/WinLibs/mingw64/bin/ld: CMakeFiles/cmTC_df4bd.dir/src.c.obj:src.c:(.text+0x3c): undefined reference to `pthread_cancel'
+C:/WinLibs/mingw64/bin/ld: CMakeFiles/cmTC_df4bd.dir/src.c.obj:src.c:(.text+0x49): undefined reference to `pthread_join'
+C:/WinLibs/mingw64/bin/ld: CMakeFiles/cmTC_df4bd.dir/src.c.obj:src.c:(.text+0x52): undefined reference to `pthread_exit'
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: C:/Users/Foxuper/Desktop/ADV Types/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/WinLibs/mingw64/bin/ninja.exe cmTC_3a573 && [1/2] Building C object CMakeFiles/cmTC_3a573.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_3a573.exe
+FAILED: cmTC_3a573.exe 
+cmd.exe /C "cd . && C:\WinLibs\mingw64\bin\clang.exe -DCHECK_FUNCTION_EXISTS=pthread_create  CMakeFiles/cmTC_3a573.dir/CheckFunctionExists.c.obj -o cmTC_3a573.exe -Wl,--out-implib,libcmTC_3a573.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lpthreads  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+C:/WinLibs/mingw64/bin/ld: cannot find -lpthreads: No such file or directory
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+ninja: build stopped: subcommand failed.
+
+
+
